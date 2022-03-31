@@ -1,0 +1,3 @@
+Lo primero que hicimos fue corregir las relaciones ya que al pasar la base a PowerBI las tablas estaban mal relacionadas.
+
+Corroboramos que los tipos de datos de las columnas fueran correctos y se corrigieron aquellos que no lo fueron (más que nada los campos que eran binarios, los cuales pase a verdadero/falso) y campos de fecha.
